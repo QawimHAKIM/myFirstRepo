@@ -6,5 +6,10 @@ public class Simple {
 		// TODO Auto-generated method stub
 
 	}
+	
+	public static int total(int a, int b){
+		int res = a + b;
+		return res;
+	}
 
 }

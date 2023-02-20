@@ -11,5 +11,10 @@ public class UnitTest {
 		
 		System.out.println(c);
 	}
+	
+	public static int total(int a, int b){
+		int res = a + b;
+		return res;
+	}
 
 }

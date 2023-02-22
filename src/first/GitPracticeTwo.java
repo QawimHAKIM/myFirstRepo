@@ -6,6 +6,7 @@ public class GitPracticeTwo {
 		// TODO Auto-generated method stub
 		
 		System.out.println("This is for Push practice");
+		System.out.println("This is for Pull practice");
 
 	}
 
